@@ -2,6 +2,7 @@
 ## LITA_Class_Documentation
 ### Project Title: E commerce Sales Analysis
 ### Project overview
+---
 
 
 ### Data Sources
@@ -16,16 +17,23 @@ The primary source of Data used here is .....
 - Github for portfolio building
 
 ### Data Cleaning and Preparations
+---
 In the initial phase of the Data cleaning and preparations, we performed the following actions:
 1. Data loading and Inspection
 2. Handling missing variables
 3. Data Cleaning and formatting
 
 ### Exploratory Data Analysis
+---
+
 EDA involved the exploring of the Data to answer some questions about the Data such as:
 - what is the overall sales trend
 - which products are top sellers
 - what are the products on peak sales?
 
 ### Data Analysis
-This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis:
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
