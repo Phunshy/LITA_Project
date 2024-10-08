@@ -25,8 +25,10 @@ The primary source of data used here is Data Sale.csv and this is an open source
     1. for Data cleaning,
     2. for Data Analysis and
     3. for Data Visualization
+
 - SQL - Structured Query Language for quering of data 
 - Github for portfolio building
+![Excel functions 1](https://github.com/user-attachments/assets/0002cbbf-e1c4-44c3-a950-3f0a252cf139)
 
 ### Data Cleaning and Preparations
 ---
@@ -50,10 +52,16 @@ This is where we include some basic lines of code or queries or even some of the
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+![SQL Queries 1](https://github.com/user-attachments/assets/6c7de7d1-7012-4d8f-b9f9-d61e51391c97)
+![SQL Queries 2](https://github.com/user-attachments/assets/d9677ab3-27a8-4552-ac84-17ed50b312e5)
+
 
 ### Data Visualizations
+![Data visualization 1](https://github.com/user-attachments/assets/86bd87f1-4901-4f98-8b00-24dba3670396)
 
-💠
+![Data visualization 2](https://github.com/user-attachments/assets/7f097185-1f8e-45bf-aec2-0d978766d567)
+
+
 😂
 
 |Heading 1|Heading 2|Heading 3|
