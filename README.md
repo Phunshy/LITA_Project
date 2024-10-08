@@ -6,6 +6,7 @@ This is where I documented my first project while learning Data Analysis with th
 [Project Overview](#project-overview)
 
 Data Sources
+The primary source of data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as Kaggle, FRED, or any other data repository site.
 
 Tools Used
 
