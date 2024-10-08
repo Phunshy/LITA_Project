@@ -25,7 +25,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
     1. for Data cleaning,
     2. for Data Analysis and
     3. for Data Visualization
-- SQL - Structured Query Language for quering of data [Download Here](https://www.microsoft.com)
+- SQL - Structured Query Language for quering of data 
 - Github for portfolio building
 
 ### Data Cleaning and Preparations
@@ -44,7 +44,7 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 - what are the products on peak sales?
 
 ### Data Analysis
-This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis🤔
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during our analysis🤔
 
 ```SQL
 SELECT * FROM TABLE1
