@@ -25,7 +25,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
     1. for Data cleaning,
     2. for Data Analysis and
     3. for Data Visualization
-- SQL - Structured Query Language for quering of data
+- SQL - Structured Query Language for quering of data [Download Here](https://www.microsoft.com)
 - Github for portfolio building
 
 ### Data Cleaning and Preparations
